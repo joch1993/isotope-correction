@@ -1,16 +1,13 @@
 # Isotope lab correction
 
-Shiny app: https://github.com/joch1993/isotope-correction
+Dette er **`app.R` fra workspace-roden** (`/Users/jonathanchristensen/Desktop/ai_workspace/app.R`), ikke `isotope_app/app.R`.
 
-**Easiest:** double-click `run_isotope_app.command` (Mac) or `run_isotope_app.bat` (Windows).
+Repo: https://github.com/joch1993/isotope-correction
 
-**From R / RStudio** in this folder:
+**Kør i R / RStudio** i denne mappe:
 
 ```r
 shiny::runApp(".")
 ```
 
-Files:
-
-- `app.R` — full Shiny app (all instruments)
-- `run_isotope_app.command` / `run_isotope_app.bat` — shortcuts
+Eller dobbeltklik `run_isotope_app.command` (Mac) / `run_isotope_app.bat` (Windows).
